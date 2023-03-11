@@ -4,17 +4,7 @@ $ git --version
 git version 2.39.2.windows.1
 
 Aprajat@Aprajat MINGW64 ~
-$ cd d
-bash: cd: d: No such file or directory
-
-Aprajat@Aprajat MINGW64 ~
 $ cd d:
-
-Aprajat@Aprajat MINGW64 /d
-$ git clone https://github.com/abhi522k/python.git
-Cloning into 'python'...
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/abhi522k/python.git/'
 
 Aprajat@Aprajat MINGW64 /d
 $ git clone https://github.com/abhi522k/python.git
